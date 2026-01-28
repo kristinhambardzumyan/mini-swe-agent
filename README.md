@@ -8,6 +8,8 @@ extended for a university final project on **Retrieval-Augmented Code Generation
 We study whether retrieving relevant code snippets from a repository improves
 LLM-based program repair under execution-based evaluation (**SWE-Bench Lite**).
 
+**Project report:** [RACG-mini-SWE_report.pdf](report/RACG-mini-SWE_report.pdf)
+
 ## What we added
 - **BM25 lexical retrieval**
 - **Dense semantic retrieval** (embeddings + similarity search)
